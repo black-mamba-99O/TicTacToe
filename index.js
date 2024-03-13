@@ -1,5 +1,3 @@
-console.log("TicTacToe")
-
 const cells = document.querySelectorAll(".cell")
 const restartBtn = document.querySelector(".restartBtn")
 const winner = document.querySelector(".winner")
