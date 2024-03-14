@@ -4,6 +4,7 @@ const cells = document.querySelectorAll(".cell")
 const restartBtn = document.querySelector(".restartBtn")
 const winner = document.querySelector(".winner")
 let turn = "X"
+"lala"
 const winningConditions = [
     [1, 2, 3],
     [4, 5, 6],
